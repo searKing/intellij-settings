@@ -1,8 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/blog/views.py" timestamp="1481387114080">
+        <mark key="[" line="0" column="35" />
+      </file>
+    </filemarks>
     <jumps />
     <registers />
     <search>
