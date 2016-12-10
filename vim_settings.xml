@@ -15,10 +15,14 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/searKingLog/settings.py" timestamp="1481393926343">
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/searKingLog/settings.py" timestamp="1481396404688">
         <mark key="[" line="30" column="5" />
         <mark key="]" line="30" column="5" />
         <mark key="." line="30" column="5" />
+      </file>
+      <file name="/usr/local/lib/python3.5/dist-packages/django/db/models/fields/__init__.py" timestamp="1481396664090" />
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/blog/models.py" timestamp="1481396476615">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/searKingLog/urls.py" timestamp="1481390453331">
         <mark key="[" line="20" column="46" />
@@ -69,7 +73,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
