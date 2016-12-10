@@ -15,6 +15,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="3" column="9" />
       </file>
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/searKingLog/settings.py" timestamp="1481393926343">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+      </file>
       <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/searKingLog/urls.py" timestamp="1481390453331">
         <mark key="[" line="20" column="46" />
       </file>
@@ -31,7 +36,7 @@
         <text encoding="base64">ZnJvbSBkamFuZ28uY29uZi51cmxzIGltcG9ydCB1cmwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'^$</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGRqYW5nby5jb25mLnVybHMgaW1wb3J0IHVybAo=</text>
@@ -49,7 +54,7 @@
         <text>urlpatterns =</text>
       </register>
       <register name="-" type="4">
-        <text>'^$</text>
+        <text />
       </register>
     </registers>
     <search>
