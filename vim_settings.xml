@@ -1,19 +1,78 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/blog/views.py" timestamp="1481387114080">
-        <mark key="[" line="0" column="35" />
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/polls/urls.py" timestamp="1481391297239">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/blog/urls.py" timestamp="1481391717156">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="3" column="9" />
+      </file>
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/searKingLog/urls.py" timestamp="1481390453331">
+        <mark key="[" line="20" column="46" />
+      </file>
+      <file name="/media/searking/slaveofsearKing/HISIwork/PycharmProjects/searKingLog/blog/views.py" timestamp="1481391152393">
+        <mark key="[" line="3" column="0" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZi51cmxzIGltcG9ydCB1cmwK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZi51cmxzIGltcG9ydCB1cmwK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>'^$</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGRqYW5nby5jb25mLnVybHMgaW1wb3J0IHVybAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">XQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHVybCgnXiQnLHZpZXdzLmluZGV4LCBuYW1lID0gJ2luZGV4JyksCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dXJscGF0dGVybnMgPSBbCg==</text>
+      </register>
+      <register name="6" type="8">
+        <text>urlpatterns =</text>
+      </register>
+      <register name="-" type="4">
+        <text>'^$</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
