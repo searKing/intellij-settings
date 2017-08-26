@@ -21,6 +21,13 @@
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="FindBugs.ShowQuickSearch" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
   <action id="FindUsages" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -35,6 +42,7 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
+  <action id="MethodHierarchy" />
   <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -42,12 +50,17 @@
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift alt r" />
     <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt x" />
@@ -78,6 +91,10 @@
   <action id="Vcs.Log.ShowTooltip">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.Inspect" />
